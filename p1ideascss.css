@@ -1,0 +1,28 @@
+@charset "utf-8";
+/* CSS Document */
+h1 {
+	font-family: "Chillax Semibold";
+	color: cornflowerblue;
+	font-size: 2rem;
+	text-align: left;
+	list-style: 1px;
+}
+h2 {
+	font-family: "Chillax Medium";
+	color: cornflowerblue;
+	font-size: 1rem;
+	text-align: left;
+}
+p {
+	font-family: "Chillax Light";
+	color: black;
+	font-size: 12pt;
+	text-align: left;
+}
+
+body {
+margin-left: 150pt;
+	margin-right: 100pt;
+	
+	
+}
